@@ -1,0 +1,37 @@
+# Laboratory 01 – Welcome to the Cloud
+
+## Mission Overview
+This laboratory activity introduces the Linux environment and basic cloud computing tools. The activity focuses on using the KillerCoda Linux Playground, exploring the Linux system, organizing files and directories, gathering system information, and documenting the activities using Markdown and GitHub.
+
+## Objectives
+* Access and use a cloud-based Linux environment.
+* Explore and navigate the Linux operating system.
+* Gather basic system information.
+* Create and organize files and directories using Linux commands.
+* Create and maintain a GitHub repository.
+* Document technical work using Markdown.
+
+## Activities Performed
+* Accessed the KillerCoda Linux Playground.
+* Created and used a Linux user account.
+* Checked the current username, working directory, and hostname.
+* Gathered Linux distribution, kernel, CPU, memory, and disk information.
+* Created and organized directories and files.
+* Created Markdown documentation.
+* Created a GitHub repository for the Cloud Computing portfolio.
+* Uploaded screenshots as evidence of the completed activities.
+
+## Linux Commands Used
+* `pwd`
+* `ls`
+* `cd`
+* `mkdir`
+* `whoami`
+* `hostname`
+* `uname`
+* `lscpu`
+* `free`
+* `df`
+
+## Skills Learned
+Through this laboratory activity, I learned how to navigate a Linux environment, use basic Linux commands, gather system information, organize files and directories, document technical activities using Markdown, and maintain a GitHub repository.
